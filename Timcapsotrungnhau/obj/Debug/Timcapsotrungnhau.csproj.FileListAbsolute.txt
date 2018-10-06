@@ -1,0 +1,18 @@
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.exe.config
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.pdb
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.Form1.resources
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.pdb
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.exe.config
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.pdb
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.csprojResolveAssemblyReference.cache
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.Form1.resources
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\obj\Debug\Timcapsotrungnhau.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Timcapsotrungnhau\Timcapsotrungnhau\bin\Debug\Timcapsotrungnhau.pdb

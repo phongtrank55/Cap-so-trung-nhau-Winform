@@ -1,0 +1,9 @@
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Release\Timcapsotrungnhau.exe.config
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Release\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\bin\Release\Timcapsotrungnhau.pdb
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.Form1.resources
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.Properties.Resources.resources
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.csproj.GenerateResource.Cache
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.exe
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.pdb
+D:\C Sharp\Bai lam C sharp\Win form\Timcapsotrungnhau\Timcapsotrungnhau\obj\Release\Timcapsotrungnhau.csprojResolveAssemblyReference.cache
